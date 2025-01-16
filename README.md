@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumitnimbolkar
-- 👀 I’m interested in python
+- 👀 I’m interested in data science with python
 - 🌱 I’m currently learning machine learning
 
 
